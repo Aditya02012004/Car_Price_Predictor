@@ -5,22 +5,34 @@ This Application predicts the Price of the Cars on the basis of Company Name, Ca
 # Approach to the Problem
 
 Step 1 - Understand the Dataset
+
 Step 2 - Clean the dataset through each column
+
 Step 3 - Get the Super Clean data
 
 # Model the Dataset 
 
 Step 1 - Using sklearn we have train and test the model as it is Linear Regression Problem
+
 Step 2 - We have applied R2_Score to train the Model
+
 Step 3 - Then we created the pipeline through which we can directly train the model
+
 Step 4 - Again Calculated the R2_Score
 
 # Creating Website to Test the Model
 
 Step 1 - Used Flask Framework to Create the website
+
 Step 2 - Maintain the simple CSS Style for webpage
+
 Step 3 - Design Out the HTML to create the Structured webpage and also used little bits of Bootstrap to make webpage look intractive
+
 Step 4 - Run out the web page
 
 # Look Out of the Car Prediction Model Webpage
+
+![Alt text](https://github.com/Aditya02012004/Car_Price_Predictor/blob/main/Screenshot%202024-08-15%20002134.png?raw=true)
+
+
 
